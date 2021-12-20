@@ -1,17 +1,19 @@
 빅데이터/AI 기반 스마트 해상물류 챗봇 서비스
 =============
-## 사전 작업
-### GloVe Featurizer의 사전 임베딩 다운받기
-### GloVe 의 한글 사전 임베딩은 책 "한국어임베딩"의 github에서 가져왔습니다.
 
-아래에서 다운 받을 수 있습니다. https://drive.google.com/drive/folders/1K_pMeDTOYs2oiBN5g_0pXRH6ar_0RyaJ?usp=sharing{:target="_blank"}
+
+### 사전 작업
+#### GloVe Featurizer의 사전 임베딩 다운받기
+#### GloVe 의 한글 사전 임베딩은 책 "한국어임베딩"의 github에서 가져왔습니다.
+
+아래에서 다운 받을 수 있습니다. 
+https://drive.google.com/drive/folders/1K_pMeDTOYs2oiBN5g_0pXRH6ar_0RyaJ?usp=sharing{:target="_blank"}
 
 walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어야 합니다.
-
 ./custom/gloVe_featurizer/model/glove.txt
 
 
-![image description](https://i.esdrop.com/d/igmccyiogpxf/dqDhseWot4.gif)
+<br/><br/><br/>![image description](https://i.esdrop.com/d/igmccyiogpxf/dqDhseWot4.gif)
 
 해상 물류를 위해 화주사, 해운사, 항만운영사, 내륙운송 사업자 등 다양한 이해관계자들이 해상 물류 정보등을 조회하고 선박입출항 및 물동량 데이터등을 확인하기 위해 해운항만물류정보시스템(PORT-MIS)를 활용하는데, 시스템에 미숙한 사용자가  챗봇 서비스를 통해 대화형으로 각종 물류 서비스 정보를 쉽게 획득할 수 있도록 하는 어플리케이션
 
