@@ -2,7 +2,7 @@
 =============
 
 ### YouTube 요약 영상 링크
-https://www.youtube.com/watch?v=W6aqDtXJLNA
+https://www.youtube.com/watch?v=W6aqDtXJLNA <br/><br/>
 
 ### 사전 작업
 #### GloVe Featurizer의 사전 임베딩 다운받기
