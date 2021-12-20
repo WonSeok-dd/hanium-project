@@ -6,7 +6,7 @@
 #### GloVe Featurizer의 사전 임베딩 다운받기
 #### GloVe 의 한글 사전 임베딩은 책 "한국어임베딩"의 github에서 가져왔습니다.
 
-아래에서 다운 받을 수 있습니다. 
+아래에서 다운 받을 수 있습니다. <br/>
 https://drive.google.com/drive/folders/1K_pMeDTOYs2oiBN5g_0pXRH6ar_0RyaJ?usp=sharing{:target="_blank"}
 
 walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어야 합니다.
