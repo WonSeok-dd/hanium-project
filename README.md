@@ -13,14 +13,14 @@ walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어
 ./custom/gloVe_featurizer/model/glove.txt
 
 
-<br/><br/><br/>![image description](https://i.esdrop.com/d/igmccyiogpxf/dqDhseWot4.gif)
+<br/><br/><br/><br/>![image description](https://i.esdrop.com/d/igmccyiogpxf/dqDhseWot4.gif)
 
 해상 물류를 위해 화주사, 해운사, 항만운영사, 내륙운송 사업자 등 다양한 이해관계자들이 해상 물류 정보등을 조회하고 선박입출항 및 물동량 데이터등을 확인하기 위해 해운항만물류정보시스템(PORT-MIS)를 활용하는데, 시스템에 미숙한 사용자가  챗봇 서비스를 통해 대화형으로 각종 물류 서비스 정보를 쉽게 획득할 수 있도록 하는 어플리케이션
 
 <img src="https://i.esdrop.com/d/igmccyiogpxf/1oiPsiVWrx.jpg" width="250" height="500"/>
 
 
-<br/><br/><br/>![image description](https://i.esdrop.com/d/igmccyiogpxf/fPgQ7MRl8P.gif)
+<br/><br/><br/><br/>![image description](https://i.esdrop.com/d/igmccyiogpxf/fPgQ7MRl8P.gif)
 
 <!--Table-->
 |기능|설명|어플 화면|
@@ -36,10 +36,10 @@ walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어
 
 ![image description](https://i.esdrop.com/d/igmccyiogpxf/alDyGci8jk.png)
 
-<br/><br/><br/><br/>![image description](https://i.esdrop.com/d/igmccyiogpxf/K999GsxcHH.gif)
+<br/><br/><br/><br/><br/>![image description](https://i.esdrop.com/d/igmccyiogpxf/K999GsxcHH.gif)
 
 <br/>
-**1. RASA 오픈소스**
+### 1. RASA 오픈소스
 
    가. 챗봇의 종류
    
@@ -56,11 +56,11 @@ walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어
  ![image description](https://i.esdrop.com/d/igmccyiogpxf/W7gqi1YjWB.JPG)
 
 <br/>
-**2. API Server**
+### 2. API Server
 
 ![image description](https://i.esdrop.com/d/igmccyiogpxf/WdNC8RGm7A.png)
 
-<br/><br/><br/>![image description](https://i.esdrop.com/d/igmccyiogpxf/RMHBiVwZic.gif)
+<br/><br/><br/><br/>![image description](https://i.esdrop.com/d/igmccyiogpxf/RMHBiVwZic.gif)
 
 |이름|담당 업무|
 |:------:|--------------|
