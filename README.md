@@ -1,6 +1,8 @@
 빅데이터/AI 기반 스마트 해상물류 챗봇 서비스
 =============
 
+### YouTube 요약 영상 링크
+https://www.youtube.com/watch?v=W6aqDtXJLNA
 
 ### 사전 작업
 #### GloVe Featurizer의 사전 임베딩 다운받기
