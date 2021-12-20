@@ -20,7 +20,7 @@ walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어
 <img src="https://i.esdrop.com/d/igmccyiogpxf/1oiPsiVWrx.jpg" width="250" height="500"/>
 
 
-![image description](https://i.esdrop.com/d/igmccyiogpxf/fPgQ7MRl8P.gif)
+<br/><br/><br/>![image description](https://i.esdrop.com/d/igmccyiogpxf/fPgQ7MRl8P.gif)
 
 <!--Table-->
 |기능|설명|어플 화면|
@@ -32,7 +32,7 @@ walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어
 |**공지사항**|1. 주요 항만공사 웹사이트의 공지사항 리스트를 제공<br/>2. 해당 공지사항 선택시 WebView로 해당 공지사항에 접근 가능|<img src="https://i.esdrop.com/d/igmccyiogpxf/Qi5RVYpkTu.jpg" width="250" height="500"/>
 |**음성인식 서비스<br/>(CHAT-BOT)**|<U>대화형 정보 제공서비스:</U><br/>1. 챗봇 서비스 이용 시 텍스트 입력 대신 음성인식을 통하여 텍스트로 전환하여 모바일 환경에 익숙하지 않은 사용자도 서비스 이용 가능|<img src="https://i.esdrop.com/d/igmccyiogpxf/9dd5NcezM1.JPG" width="250" height="500"/>
 
-![image description](https://i.esdrop.com/d/igmccyiogpxf/2F04DGM0Ef.gif)
+<br/><br/><br/>![image description](https://i.esdrop.com/d/igmccyiogpxf/2F04DGM0Ef.gif)
 
 ![image description](https://i.esdrop.com/d/igmccyiogpxf/alDyGci8jk.png)
 
