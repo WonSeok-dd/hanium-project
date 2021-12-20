@@ -59,18 +59,11 @@ walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어
 
 ### 2. API Server
 
-    가. Routing
-   
      - /api/portuse: 해운항만물류시스템-Portmis에서 제공하는 API 서버로 부터 POST요청을 통하여 시설사용허가현황 데이터를 수집후 가공하여 JSON형식으로 데이터를 제공  
      - /api/inout: 해운항만물류시스템-Portmis에서 제공하는 API 서버로부터 POST요청을 통하여 선박입출항정보 데이터를 수집후 가공하여 JSON형식으로 데이터를 제공
      - /news : 네이버 뉴스 탭에서 항만 관련 뉴스를 크롤링 후 가공하여 JSON형식으로 데이터를 제공
      - /notice : 주요 항만공사(울산,부산,인천,여수) 사이트의 공지사항에서 크롤링 후 가공하여 JSON형식으로 데이터를 제공
      - /weather : 네이버 주요 항만(울산,부산,인천,여수) 날씨를 크롤링 후 가공하여 JSON형식으로 데이터를 제공
-     
-   나. Function
-   
-     - GetPortUseData: 해운항만물류시스템-Portmis에서 제공하는 API 서버로부터 시설사용허가현황 데이터를 수집하기 위하여 POST요청 시 필요한 Parameter값을 얻기 위해 비동기함수 설계
-     - GetInOutData : 해운항만물류시스템-Portmis에서 제공하는 API 서버로부터 선박입출항정보 데이터를 수집하기 위하여 POST요청 시 필요한 Parameter값을 얻기 위해 비동기함수 설계
 
 
 
