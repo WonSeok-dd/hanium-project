@@ -74,5 +74,5 @@ walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어
 |박상준|프로젝트 총괄, RASA 챗봇 설계, 환경 개발 및 유지 보수|
 |최용태|RASA 챗봇 설계, 환경 개발 및 유지보수|
 |이윤표|RASA 챗봇 설계, Android application 개발|
-|홍진원|Data Crawling, API 서버 구축, Android application 개발|
 |정원석|Data Crawling, API 서버 구축, Android application 개발|
+|홍진원|Data Crawling, API 서버 구축, Android application 개발|
