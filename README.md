@@ -39,6 +39,7 @@ walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어
 <br/><br/><br/><br/><br/>![image description](https://i.esdrop.com/d/igmccyiogpxf/K999GsxcHH.gif)
 
 <br/>
+
 ### 1. RASA 오픈소스
 
    가. 챗봇의 종류
@@ -56,9 +57,12 @@ walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어
  ![image description](https://i.esdrop.com/d/igmccyiogpxf/W7gqi1YjWB.JPG)
 
 <br/>
+
 ### 2. API Server
 
-![image description](https://i.esdrop.com/d/igmccyiogpxf/WdNC8RGm7A.png)
+
+
+
 
 <br/><br/><br/><br/>![image description](https://i.esdrop.com/d/igmccyiogpxf/RMHBiVwZic.gif)
 
