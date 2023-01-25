@@ -1,6 +1,6 @@
 # ✈️ 프로젝트 소개
 > **빅데이터/AI 기반 스마트 해상물류 챗봇 서비스**
-- **스마트 해상물류 공모전, 팀 멋진코끼리**
+- **스마트 해상물류 경진대회, 팀 멋진코끼리**
 - **프로젝트기간** : 2021.03 ~ 2021.12 (10개월)
 - **YouTube 요약 영상 링크** : https://www.youtube.com/watch?v=W6aqDtXJLNA
 - **학술지** : https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13484927&dbt=NPAP
